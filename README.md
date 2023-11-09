@@ -2,15 +2,17 @@
 
  "version":"2.3",
 
- "title":"SL LEGENDZ NEW APP STOR V.1",
+ "title":"Sathsara Modz New Whatsapp🧡",
 
  "button":"Update",
 
- "description":"ℹ️New Legendz Stor 👈
-
-All Legendz Mods Application Free Download
+ "description":"New Version 👉 2.23.9.75
+ 
+ Full Antvurus 💝
+ 
+ Chanall 😆🧡
 ",
 
- "download":"https://www.mediafire.com/file/nybnh6796udonu2/Legendz+Store_1.0-signed.apk/file"
+ "download":"https://youtube.com/@Sathsara-modz-01"
 
 }
